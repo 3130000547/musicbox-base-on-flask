@@ -1,0 +1,1 @@
+TO compare the similarity of image ,you have to input the an image to be reference.This function haven't added into my website yet ,but it's can be really usefull.
