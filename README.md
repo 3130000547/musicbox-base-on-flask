@@ -9,6 +9,6 @@
 ##usage
 run mymusicbox.py and check   http:\\127.0.0.1\:8000 
 ##my website look like this .
-![default](show/1.jpg)
+![website](show/1.jpg)
 
 
